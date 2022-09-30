@@ -6,6 +6,8 @@
 
 Um conversor de moedas e temperatura desenvolvido com Java (JDK 18) e utilizando JOptionPane para a interface gráfica.
 
+**Cotações das moedas: 27/09/2022**
+
 <p align="center">
   <img src="img/tela-inicial.jpg" alt="Tela inicial do conversor" title="Tela inicial do conversor">
 </p>
