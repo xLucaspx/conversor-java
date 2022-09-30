@@ -74,6 +74,6 @@ Sempre após o alerta ou uma operação bem sucedida, o programa deverá pergunt
 
 💾 Download apenas do arquivo executável (.jar): [Baixar arquivo](https://github.com/xLucaspx/conversor-java/raw/main/Conversor.jar "Baixar arquivo .jar")
 
-Talvez seja necessário ter a versão 18 ou superior do java para rodar o programa.
+Talvez seja necessário ter a versão 18 ou superior do Java para rodar o programa.
 
 ---
