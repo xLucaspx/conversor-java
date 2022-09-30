@@ -12,7 +12,7 @@ public class Repetidor {
 				JOptionPane.QUESTION_MESSAGE, null, options, options[0]);
 		
 		if (resposta != 0) {
-			JOptionPane.showMessageDialog(null, "Programa finalizado!", "Conversor", JOptionPane.PLAIN_MESSAGE);;
+			JOptionPane.showMessageDialog(null, "Programa finalizado!", "Conversor", JOptionPane.INFORMATION_MESSAGE);
 			return false;
 		}
 		return true;
