@@ -75,7 +75,14 @@ Sempre após o alerta ou uma operação bem sucedida, o programa deverá pergunt
 📁 Download do projeto completo (.zip): [Baixar projeto](https://github.com/xLucaspx/conversor-java/archive/refs/heads/main.zip "Baixar projeto .zip")
 
 💾 Download apenas do arquivo executável (.jar): [Baixar arquivo](https://github.com/xLucaspx/conversor-java/raw/main/Conversor.jar "Baixar arquivo .jar")
+* (JDK 18)
 
-Talvez seja necessário ter a versão 18 ou superior do Java para rodar o programa.
+**Para versões anteriores do Java**:
+
+🌿 Consultar o projeto no branch [java_8](https://github.com/xLucaspx/conversor-java/tree/java_8 "conversor-java at branch java_8"), ou:
+ 
+📂 Download do projeto (.zip - Java 8): [Baixar projeto](https://github.com/xLucaspx/conversor-java/archive/refs/heads/java_8.zip "Baixar projeto .zip (Java 8)")
+
+☕ Download do arquivo executável (.jar - Java 8): [Baixar arquivo](https://github.com/xLucaspx/conversor-java/raw/java_8/Conversor-java_8.jar "Baixar arquivo .jar (Java 8)")
 
 ---
