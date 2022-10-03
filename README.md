@@ -70,16 +70,15 @@ Sempre após o alerta ou uma operação bem sucedida, o programa deverá pergunt
 
 ---
 
-### Acesso ao projeto
+### Acesso ao projeto (JDK 18)
 
 📁 Download do projeto completo (.zip): [Baixar projeto](https://github.com/xLucaspx/conversor-java/archive/refs/heads/main.zip "Baixar projeto .zip")
 
 💾 Download apenas do arquivo executável (.jar): [Baixar arquivo](https://github.com/xLucaspx/conversor-java/raw/main/Conversor.jar "Baixar arquivo .jar")
-* (JDK 18)
 
 **Para versões anteriores do Java**:
 
-🌿 Consultar o projeto no branch [java_8](https://github.com/xLucaspx/conversor-java/tree/java_8 "conversor-java at branch java_8"), ou:
+🌿 Ver o projeto no branch [java_8](https://github.com/xLucaspx/conversor-java/tree/java_8 "conversor-java at branch java_8")
  
 📂 Download do projeto (.zip - Java 8): [Baixar projeto](https://github.com/xLucaspx/conversor-java/archive/refs/heads/java_8.zip "Baixar projeto .zip (Java 8)")
 
